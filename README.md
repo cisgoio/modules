@@ -7,7 +7,7 @@ Modules for :
 
   RESTNgin
 
-  Cisco.com/REST-API calls
+  Cisco.com/REST-API/RESTCONF calls
 
   database_CRUD
 

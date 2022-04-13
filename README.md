@@ -11,10 +11,11 @@ My GOLang Modules
        
 
 //========================================
-//= List of my Modules:
-//========================================
+
+List of my Modules:
 
 cisgo_control_mouse_keyboard
+
    //this module is my solution to keep my monitor not going to sleep. works really well
    
    //to build:  go build main_control_mouse_keyboard.go
@@ -23,7 +24,9 @@ cisgo_control_mouse_keyboard
    //then, to run, 
           ./main_control_mouse_keyboard
 
-  ( will be coming, please bear with me )
+
+
+  //==OTHERS( will be coming, please bear with me )
 
 Modules for :
 

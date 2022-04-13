@@ -1,4 +1,4 @@
-//to build project
+//===to build project
 
   go mod init cisgo_control_mouse_keyboard
   
